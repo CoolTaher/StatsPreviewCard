@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/CoolTaher/StatsPreviewCard/)
-- Live Site URL: ()
+- Live Site URL: (https://cooltaher.github.io/StatsPreviewCard/)
 
 ## My process
 
@@ -46,8 +46,8 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [CoolTaher](https://cooltaher.github.io/StatsPreviewCard/)
+- Frontend Mentor - [@CoolTaher](https://www.frontendmentor.io/profile/CoolTaher)
 
 
 
